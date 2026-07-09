@@ -1,0 +1,8 @@
+base\BaseClass.class
+pages\LoginPage.class
+tests\DeleteEmployeeTest.class
+pages\PIMPage.class
+pages\DashboardPage.class
+tests\EditEmployeeTest.class
+tests\AddEmployeeTest.class
+tests\SearchEmployeeTest.class
